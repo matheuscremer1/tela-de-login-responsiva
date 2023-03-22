@@ -126,4 +126,5 @@ div.campo > input{
     width: 80%;
     border: 2px solid #3721AD;
     transform: translateY(-12px);
+    color: #000000;
 }
